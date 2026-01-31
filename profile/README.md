@@ -167,6 +167,7 @@ This is the most important transition in the history of intelligence on Earth. I
 ## Network
 
 - 🌐 [Biopoietic Research](https://biopoietic.com)
+- 🔗 [The Attractor Arena](https://attractor-arena.biopoietic.com) (AI identity tournament and leaderboard)
 - 🔗 [Nemetic Protocol](https://nemetic.com) (A research project tracking similar signals)
 
 ---
